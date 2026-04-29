@@ -1,1 +1,2 @@
 these are my notes for git assignment
+Added new and more notes about assignment
